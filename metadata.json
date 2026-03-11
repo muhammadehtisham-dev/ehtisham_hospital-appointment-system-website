@@ -1,0 +1,9 @@
+{
+  "name": "Hospital Appointment Management System",
+  "description": "A modern, secure, and scalable healthcare platform for managing doctor appointments with AI-powered assistance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
